@@ -1,0 +1,4 @@
+baseURL = 'https://rlfan.club/'
+languageCode = 'en-us'
+title = 'Rocket League Fan Club'
+theme = 'ananke'
