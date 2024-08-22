@@ -6,5 +6,5 @@ draft = true
 
 # For the community, by the community
 
-RLFan.Club is a platform to organise community-led watch-parties.
+RLFan.Club is a platform to organise community-led watch-parties for Rocket League events.
 RLFan.Club is in no way affiliated with Psyonix LLC or Epic Games, Inc.
